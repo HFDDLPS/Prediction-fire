@@ -1,5 +1,5 @@
 # Sistema Predittivo e di Monitoraggio del Rischio Incendi Boschivi
-Un sistema software basato su Machine Learning progettato per prevedere, analizzare e monitorare il rischio di incendi boschivi sul territorio italiano. Il progetto unisce dati meteorologici, storici e geografici per stimare la probabilità di incendio, integrando strumenti per la validazione da parte di esperti forestali e test di affidabilità stagionali.
+Un sistema software basato su Machine Learning progettato per prevedere, analizzare e monitorare il rischio di incendi boschivi sul territorio italiano. Il progetto unisce dati meteorologici, storici e geografici per stimare la probabilità di incendio, integrando strumenti per la validazione da parte di esperti forestali e test di affidabilità stagionali. // usando come IDE pycharm
 
 # Caratteristiche Principali
 Modelli di Previsione: Utilizza algoritmi di classificazione (Random Forest e Gradient Boosting) per stimare la probabilità di innesco degli incendi in base alle condizioni ambientali.
